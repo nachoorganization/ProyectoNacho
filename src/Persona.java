@@ -73,7 +73,7 @@ public class Persona {
 		this.dni = dni;
 	}
 	@override
-	public String toString
+	public String toString()
 	{
 		String mensaje="Hola, mi nombre es "+this.nombre+" "+this.apellidos;
 	}
